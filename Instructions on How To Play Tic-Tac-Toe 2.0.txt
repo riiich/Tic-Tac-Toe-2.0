@@ -1,0 +1,12 @@
+Instructions:
+
+1. You will be prompted to enter how many players you'd like (integers only).
+2. You will be prompted to enter your pieces you'd like for each player.
+3. You will be prompted to enter how many pieces in a row you'd like to win as your win condition.
+4. Once the game starts, the board will pop up for your every move.
+5. It will prompt you to enter a row (integers only) then press enter.
+6. Once you enter your row, you will be prompted to enter your column (integers only), then press enter.
+7. If you enter a anything other than an integer, you will be prompted to re-enter your row and column.
+8. Once you reach a winning state, or a tie, you will be prompted if you want to continue with a new game or not.
+9. If you press 'y' for yes, the game will reset and you will enter your settings again.
+10. If you press anything other than 'y', the program will terminate.
